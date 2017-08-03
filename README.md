@@ -1,14 +1,14 @@
 # Technical-Words
-Technical words
+Technical words:
 
-obivate
+obivate;
 
-elicit
+elicit;
 
-pertinent
+pertinent;
 
-discern
+discern;
 
-ascertain
+ascertain;
 
 visualize
